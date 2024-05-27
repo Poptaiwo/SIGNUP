@@ -11,7 +11,7 @@ const App = () => {
   };
   return (
     <div>
-      {/* <Signup/> */}
+      <Signup/>
       {/* <Portal/> */}
       {/* <Reg/> */}
       <Login/>
